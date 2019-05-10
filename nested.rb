@@ -16,7 +16,8 @@ def hopper
         }
      }
 
-programmer_hash[grace_hopper]
+grace_info = programmer_hash[grace_hopper]
+return grace_info
 
 end
 
